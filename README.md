@@ -36,3 +36,12 @@ python generate_unconditional_samples.py --length=20
 
 4) Run this command to have interactivity with the model (change length number to your liking):
 !python interactive_conditional_samples.py --length=60 --top_k=40
+
+# FAQ
+
+It doesn't work?
+Try to see if you can run tensorflow on your GPU.
+(I can't test if this code works because I run it on google collab)
+
+How can I run if I don't have a GPU?
+Upload to your google drive account and run the TAY WORKING CODE.py inside google collab (remeber to change the %cd folder address to the root folder -right click on the folder and click copy address on the left panel of google collab-) 
