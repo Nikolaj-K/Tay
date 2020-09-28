@@ -18,7 +18,7 @@ The cannot find tensorflow.contrib error means you have tensorflow 2 which remov
 
 # TUTORIAL FOR DUMMIES
 
-0) Make sure you can run Tensorflow with your GPU, download/clone this repo and unzip with 7z
+0) Make sure you can run Tensorflow with your GPU, download/clone this repo and unzip with 7z the .00 zip file (right click on the .00 file and hit unzip)
 
 1) Install these:
 
