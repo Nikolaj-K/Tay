@@ -34,11 +34,11 @@ cd (copy paste the repository folder address here)
 
 conda install python==3.5
 
-py -m conda install tensorflow==1.5.0
+py -m pip install tensorflow==1.5.0
 
-py -m conda install numpy
+py -m pip install numpy
 
-pip install -r requirements.txt
+py -m pip install -r requirements.txt
 
 export PYTHONIOENCODING=UTF-8
 
