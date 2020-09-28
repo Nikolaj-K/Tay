@@ -28,7 +28,7 @@ Build Tools for C++ 14 https://visualstudio.microsoft.com/thank-you-downloading-
 
 
 
-2) Run these commands on your console:
+2) Run these commands on the Anaconda Prompt:
 
 cd (copy paste the repository folder address here)
 
