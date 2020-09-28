@@ -24,7 +24,9 @@ The cannot find tensorflow.contrib error means you have tensorflow 2 which remov
 
 Anaconda 4.2 https://repo.anaconda.com/archive/
 
-Visual Tools for C++ 14 https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=BuildTools&rel=16
+Build Tools for C++ 14 https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=BuildTools&rel=16
+
+
 
 2) Run these commands on your console:
 
@@ -42,9 +44,13 @@ export PYTHONIOENCODING=UTF-8
 
 cd /src/
 
+
+
 3) Run this command (inside the /src/ folder) if you want just random samples:
 
 py generate_unconditional_samples.py --length=20
+
+
 
 4) Run this command to have interactivity with the model (change length number to your liking):
 
