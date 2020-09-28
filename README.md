@@ -22,7 +22,7 @@ The cannot find tensorflow.contrib error means you have tensorflow 2 which remov
 
 1) Install these:
 
-Anaconda 4.2 https://repo.anaconda.com/archive/
+Anaconda 4.2 (install the number 3) https://repo.anaconda.com/archive/
 
 Build Tools for C++ 14 https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=BuildTools&rel=16
 
